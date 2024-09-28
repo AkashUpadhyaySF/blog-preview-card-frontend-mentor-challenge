@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Live Site URL: [GitHub Page](https://akashupadhyaysf.github.io/blog-preview-card-frontend-mentor-challenge/)
 
 ## My process
 
