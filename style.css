@@ -24,3 +24,48 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Figtree', sans-serif;
+}
+
+.blog-sub-info {
+    font-size: 12px;
+    color: var(--colour-gray-950);
+}
+
+.category {
+    background-color: var(--colour-yellow);
+    max-width: max-content;
+    padding-inline: 12px;
+    padding-block: 4px;
+    border-radius: 4px;
+    font-weight: var(--font-weight-extra-bold);
+}
+
+.published-date {
+    font-weight: var(--font-weight-medium);
+}
+
+p.title {
+    font-weight: var(--font-weight-extra-bold);
+    font-size: 20px;
+    color: var(--colour-gray-950);
+}
+
+p.introduction {
+    font-weight: var(--font-weight-medium);
+    font-size: 14px;
+    color: var(--colour-gray-500);
+}
+
+.author-dp {
+    width: 32px;
+    aspect-ratio: 1;
+}
+
+.author-name {
+    font-weight: var(--font-weight-extra-bold);
+    font-size: 14px;
+    color: var(--colour-gray-950);
+}
