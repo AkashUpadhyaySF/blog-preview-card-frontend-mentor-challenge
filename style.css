@@ -3,6 +3,20 @@
     src: url('./assets/fonts/Figtree-VariableFont_wght.ttf');
 }
 
+:root {
+    --colour-yellow: hsl(47, 88%, 63%);
+    --colour-gray-950: hsl(0, 0%, 7%);
+    --colour-gray-500: hsl(0, 0%, 42%);
+    --colour-white: hsl(0, 0%, 100%);
+    --font-weight-extra-bold: 800;
+    --font-weight-medium: 500;
+    --default-line-height: 1.5;
+    --spacing-200: 16px;
+    --spacing-150: 12px;
+    --spacing-100: 8px;
+    --spacing-50: 4px;
+}
+
 *,
 *::before,
 *::after {
